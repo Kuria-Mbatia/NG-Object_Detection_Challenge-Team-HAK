@@ -1,0 +1,11 @@
+Detection Results for image11.jpg
+--------------------------------------------------
+Object 1: person (Score = 0.62)
+Object 2: cup (Score = 1.00)
+Object 3: cup (Score = 0.97)
+Object 4: sandwich (Score = 0.89)
+Object 5: sandwich (Score = 0.84)
+Object 6: orange (Score = 0.80)
+Object 7: dining table (Score = 0.96)
+Object 8: dining table (Score = 0.59)
+Object 9: book (Score = 0.70)

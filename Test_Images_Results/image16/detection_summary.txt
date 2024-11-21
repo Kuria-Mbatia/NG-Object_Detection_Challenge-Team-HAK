@@ -1,0 +1,16 @@
+Detection Results for image16.jpg
+--------------------------------------------------
+Object 1: bowl (Score = 0.97)
+Object 2: bowl (Score = 0.96)
+Object 3: sandwich (Score = 0.78)
+Object 4: sandwich (Score = 0.75)
+Object 5: sandwich (Score = 0.55)
+Object 6: sandwich (Score = 0.52)
+Object 7: broccoli (Score = 0.54)
+Object 8: pizza (Score = 0.57)
+Object 9: donut (Score = 1.00)
+Object 10: donut (Score = 1.00)
+Object 11: cake (Score = 0.78)
+Object 12: dining table (Score = 0.97)
+Object 13: dining table (Score = 0.61)
+Object 14: teddy bear (Score = 0.62)

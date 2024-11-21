@@ -1,0 +1,8 @@
+Detection Results for image13.jpg
+--------------------------------------------------
+Object 1: bench (Score = 0.57)
+Object 2: bench (Score = 0.51)
+Object 3: chair (Score = 0.98)
+Object 4: chair (Score = 0.98)
+Object 5: chair (Score = 0.90)
+Object 6: chair (Score = 0.89)

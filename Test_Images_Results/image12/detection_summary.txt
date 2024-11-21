@@ -1,0 +1,18 @@
+Detection Results for image12.jpg
+--------------------------------------------------
+Object 1: chair (Score = 0.83)
+Object 2: chair (Score = 0.79)
+Object 3: chair (Score = 0.79)
+Object 4: chair (Score = 0.75)
+Object 5: chair (Score = 0.74)
+Object 6: chair (Score = 0.57)
+Object 7: chair (Score = 0.56)
+Object 8: chair (Score = 0.55)
+Object 9: chair (Score = 0.54)
+Object 10: chair (Score = 0.53)
+Object 11: chair (Score = 0.51)
+Object 12: chair (Score = 0.48)
+Object 13: chair (Score = 0.31)
+Object 14: potted plant (Score = 0.78)
+Object 15: dining table (Score = 0.98)
+Object 16: dining table (Score = 0.98)

@@ -1,0 +1,7 @@
+Detection Results for image19.jpg
+--------------------------------------------------
+Object 1: person (Score = 1.00)
+Object 2: person (Score = 0.92)
+Object 3: airplane (Score = 0.82)
+Object 4: potted plant (Score = 0.99)
+Object 5: potted plant (Score = 0.99)

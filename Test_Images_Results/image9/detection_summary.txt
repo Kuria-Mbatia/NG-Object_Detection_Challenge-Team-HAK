@@ -1,0 +1,13 @@
+Detection Results for image9.jpg
+--------------------------------------------------
+Object 1: person (Score = 0.74)
+Object 2: person (Score = 0.66)
+Object 3: person (Score = 0.54)
+Object 4: person (Score = 0.52)
+Object 5: person (Score = 0.42)
+Object 6: boat (Score = 0.64)
+Object 7: chair (Score = 0.76)
+Object 8: chair (Score = 0.74)
+Object 9: chair (Score = 0.70)
+Object 10: chair (Score = 0.56)
+Object 11: chair (Score = 0.54)

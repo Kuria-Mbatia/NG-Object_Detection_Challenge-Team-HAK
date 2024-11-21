@@ -1,0 +1,12 @@
+Detection Results for image5.jpg
+--------------------------------------------------
+Object 1: person (Score = 1.00)
+Object 2: person (Score = 1.00)
+Object 3: boat (Score = 0.99)
+Object 4: boat (Score = 0.98)
+Object 5: backpack (Score = 0.70)
+Object 6: surfboard (Score = 0.91)
+Object 7: surfboard (Score = 0.84)
+Object 8: surfboard (Score = 0.31)
+Object 9: carrot (Score = 0.70)
+Object 10: carrot (Score = 0.57)

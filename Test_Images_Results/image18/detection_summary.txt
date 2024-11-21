@@ -1,0 +1,15 @@
+Detection Results for image18.jpg
+--------------------------------------------------
+Object 1: umbrella (Score = 0.71)
+Object 2: umbrella (Score = 0.57)
+Object 3: frisbee (Score = 0.52)
+Object 4: baseball bat (Score = 0.88)
+Object 5: baseball bat (Score = 0.86)
+Object 6: baseball bat (Score = 0.54)
+Object 7: baseball bat (Score = 0.43)
+Object 8: banana (Score = 0.60)
+Object 9: banana (Score = 0.34)
+Object 10: broccoli (Score = 0.64)
+Object 11: potted plant (Score = 0.81)
+Object 12: dining table (Score = 0.60)
+Object 13: toothbrush (Score = 0.53)

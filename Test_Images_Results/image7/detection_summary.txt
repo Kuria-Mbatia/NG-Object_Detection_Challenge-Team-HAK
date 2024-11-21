@@ -1,0 +1,15 @@
+Detection Results for image7.jpg
+--------------------------------------------------
+Object 1: bottle (Score = 0.97)
+Object 2: bottle (Score = 0.96)
+Object 3: bottle (Score = 0.90)
+Object 4: bottle (Score = 0.85)
+Object 5: bottle (Score = 0.65)
+Object 6: bowl (Score = 0.99)
+Object 7: bowl (Score = 0.96)
+Object 8: chair (Score = 0.82)
+Object 9: chair (Score = 0.75)
+Object 10: chair (Score = 0.65)
+Object 11: chair (Score = 0.59)
+Object 12: chair (Score = 0.59)
+Object 13: dining table (Score = 0.52)

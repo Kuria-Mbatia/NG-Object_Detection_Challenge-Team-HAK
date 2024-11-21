@@ -1,0 +1,9 @@
+Detection Results for image20.jpg
+--------------------------------------------------
+Object 1: person (Score = 0.65)
+Object 2: pizza (Score = 0.96)
+Object 3: pizza (Score = 0.93)
+Object 4: bed (Score = 0.99)
+Object 5: book (Score = 0.82)
+Object 6: book (Score = 0.78)
+Object 7: book (Score = 0.76)

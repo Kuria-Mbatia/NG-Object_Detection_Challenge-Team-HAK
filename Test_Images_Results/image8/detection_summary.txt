@@ -1,0 +1,13 @@
+Detection Results for image8.jpg
+--------------------------------------------------
+Object 1: person (Score = 0.96)
+Object 2: person (Score = 0.94)
+Object 3: person (Score = 0.69)
+Object 4: person (Score = 0.49)
+Object 5: car (Score = 0.77)
+Object 6: car (Score = 0.76)
+Object 7: handbag (Score = 0.66)
+Object 8: knife (Score = 0.52)
+Object 9: cake (Score = 0.96)
+Object 10: cake (Score = 0.61)
+Object 11: couch (Score = 0.63)
