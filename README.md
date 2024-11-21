@@ -1,5 +1,8 @@
 # NG-Masked-RCNN
 
+![Masked RCNN Object Detection](https://github.com/Kuria-Mbatia/NG-Object_Detection_Challenge-Team-HAK/blob/main/Test_Images_Results/image14/detection_comparison.png)
+
+https://github.com/Kuria-Mbatia/NG-Object_Detection_Challenge-Team-HAK/blob/main/Test_Images_Results/image14/detection_comparison.png
 This repository contains the deployment of Masked RCNN for the 2024 Northrop Grumman Object Detection Challenge.
 
 ## Deployment
